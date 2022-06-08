@@ -2,7 +2,7 @@
 <p><h2>Desenvolvendo um jogo da memória</h2></p><br>
 
 <h2>Projeto - Jogo da Memória com Temática da Série (anime) Pokémon </h2>
-<p>Este projeto foi elaborado a partir das aulas do Desafio de Projeto - Desenvolvendo un Jogo da Memória <strong>TQI Fullstack Developer</strong></strong>.</p>
+<p>Este projeto foi elaborado a partir das aulas do Desafio de Projeto - Desenvolvendo um Jogo da Memória -  <strong>TQI Fullstack Developer</strong></strong>.</p>
 
 <h2>
 Apresentação
